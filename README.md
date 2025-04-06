@@ -1,2 +1,20 @@
-# VibeCraft-A-Creative-Website-Engineered-with-AI-Synergy
-A fully responsive and elegantly designed website, crafted using the Vibe Coding technique in seamless collaboration with Claude AI and Cursor. This project embodies the fusion of human creativity and AI-assisted development, delivering a dynamic and modern web experience with clean UI/UX and scalable architecture.
+# 🌐 Vibe Coding Website
+
+This is a complete website built using the **Vibe Coding** technique — a creative and iterative development style — in collaboration with **Claude AI** and **Cursor**.
+
+## 🚀 Features
+- Fully responsive design
+- Clean UI/UX
+- Built with HTML, CSS, and JavaScript
+- Collaborative development using AI tools
+
+## 🤖 Tools Used
+- Claude AI
+- Cursor Editor
+- Vibe Coding method
+
+## 📂 Live Preview
+*(https://kayoolnajd.com/new_site/)*
+
+## 📬 Contact
+- [LinkedIn](https://linkedin.com/in/abdelrahman-fayed-masoud)

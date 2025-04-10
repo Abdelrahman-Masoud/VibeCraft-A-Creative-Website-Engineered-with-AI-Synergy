@@ -14,7 +14,7 @@ This is a complete website built using the **Vibe Coding** technique — a creat
 - Vibe Coding method
 
 ## 📂 Live Preview
-*(https://kayoolnajd.com/new_site/)*
+*(https://kayoolnajd.com/)*
 
 ## 📬 Contact
 - [LinkedIn](https://linkedin.com/in/abdelrahman-fayed-masoud)
